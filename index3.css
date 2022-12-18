@@ -1,0 +1,93 @@
+.img{
+    width: 1400px;
+    height: 500px;
+}
+.container{
+    display: flex;
+    height: 380px;
+    background-image: url(images-1.jpeg);
+}
+.box{
+    border: 1px solid white;
+    border-radius: 5%;
+    width: 400px;
+    height:190px;
+    margin-left: 500px;
+    margin-top: 15%;
+    background-color: white;
+}
+.servis{
+    text-align: center;
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 62px;
+    text-align: center;
+    letter-spacing: 0.22px;color: #292F36;
+    margin-top:10%;
+    margin-left: 5%;
+}
+.servis2{
+    font-family: 'Jost';
+    font-style: normal;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.90px;
+    color: #4D5053;
+    text-align: center;
+    margin-top:10%;
+    margin-right: 5%;
+}
+.servis1{
+    font-family: 'Jost';
+    font-style: normal;
+    font-size: 50px;
+    line-height: 33px;
+    letter-spacing: 0.30px;
+    color: #4D5053;
+    text-align: center;
+    margin-top:10%;
+    margin-right: 5%;
+}
+.kalay{
+    font-family: 'DM Serif Display';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 96px;
+text-align: center;
+letter-spacing: 0.22px;
+
+color: #292F36;
+
+}
+.nomer{
+    display: flex;
+    flex-direction: row;
+}
+.boxing{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid  #F4F0EC;
+    width: 300px;
+    height: 240px;
+    border-radius: 20%;
+    background: #F4F0EC;
+    text-align: center;
+}
+.material-symbols-outlined{
+    border: 10px solid white;
+    border-radius: 50px;
+    background-color: white;
+}
+.mails{
+    text-decoration: none;
+}
+.mails:hover{
+    color: rgba(205, 162, 116, 1);
+}
+.vin {
+    display: flex;
+    flex-direction: column;
+}

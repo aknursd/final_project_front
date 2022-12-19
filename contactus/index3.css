@@ -5,7 +5,7 @@
 .container{
     display: flex;
     height: 380px;
-    background-image: url(images-1.jpeg);
+    background-image: url(cantakty.jpg);
 }
 .box{
     border: 1px solid white;
@@ -125,3 +125,88 @@ input[type=text], select {
     border-radius: 5px;
     padding: 20px;
   }
+  .korap{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #292F36;
+    border-radius: 40px;
+    width: 900px;
+    height: 200px;
+    margin-left: 220px;
+    margin-top: 5%;
+    background-color: #292F36;
+    text-align: center;
+    text-decoration-color:white ;
+    }
+    .contacts{
+    background-color: #CDA274;
+    border: 1px solid #292F36;
+    border-radius: 10px;
+    width: 150px;
+    height: 25px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    letter-spacing: 0.22px;
+    color: #FFFFFF;
+    margin-top: -1%;
+    }
+    .contacts:hover{
+    background-color: white;
+    color: #080909;
+    }
+    .korapsoz{font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+    letter-spacing: 0.22px;
+    color: #FFFFFF;
+    margin-top: -1%;
+    
+    }
+    .korapsoz2{
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0.22px;
+    color: #FFFFFF;
+    
+    }
+    .interno{
+    display: flex;
+    flex-direction: row;
+    }
+    .inter{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid white;
+    width: 400px;
+    margin-left: 3%;
+    }
+    .intertext{
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 38px;
+    letter-spacing: 0.22px;
+    color: black;
+    }
+    .intertext2{
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+    
+    }
